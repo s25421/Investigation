@@ -1,0 +1,2 @@
+# Investigation
+Learning programming technoligy.
